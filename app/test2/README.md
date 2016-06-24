@@ -1,0 +1,1 @@
+Sample using the official lib (amqplib) and event emitters
